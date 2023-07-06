@@ -4,3 +4,6 @@
     box-sizing: border-box;
 }
 
+.card-img-overlay{
+    background-color: rgba(0, 0, 0, 0.7);
+}
